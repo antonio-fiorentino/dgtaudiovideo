@@ -1,5 +1,5 @@
 .c-blue{
-    color: #304e98;
+    color: rgb(48, 78, 152);
 }
 
 .c-orange{
@@ -149,7 +149,7 @@ nav h3{
 .jumbotron-mod div div:last-of-type  span{
     text-transform: uppercase;
     background-color: #fff;
-    color: #304e98;
+    color: #f7881f;
     font-weight: bold;
     font-size: 55px;
     padding: 0 10px;
@@ -234,3 +234,12 @@ nav h3{
 }
 
 /* /Info Box */
+
+
+/* Footer */
+
+footer{
+    margin-top: 70px;
+}
+
+/* Footer */

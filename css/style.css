@@ -14,7 +14,7 @@
 nav {
     width: 100%;
     box-shadow: none !important;
-    background-color: #304e98;
+    background-color: #1a2e73;
 }
 
 .navbar-toggler {
@@ -139,7 +139,7 @@ nav h3{
 
 .jumbotron-mod div:first-of-type  span{
     text-transform: uppercase;
-    background-color: #304e98;
+    background-color: #1a2e73;
     color: #fff;
     font-weight: bold;
     font-size: 55px;
@@ -163,12 +163,12 @@ nav h3{
 .about-us{
     margin-top: 70px;
     color: #fff;
-    background-color: #304e98;
+    background-color: #1a2e73;
 /*     padding: 15px 0;*/
 }
 
 /* .about-us > .container{
-    background-color: #304e98;
+    background-color: #1a2e73;
 }
  */
 .info{
@@ -193,7 +193,7 @@ nav h3{
 }
 
 .about-social i:hover{
-    color: #304e98;
+    color: #1a2e73;
     font-weight: 500;
 }
 

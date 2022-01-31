@@ -165,7 +165,27 @@ nav h3{
 }
 
 .banner img{
-    width: 70%;
+    width: 100%;
 }
 
 /* /Banner */
+
+
+/* Info Box */
+
+.info-box{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.info-box .col-2{
+    height: 250px;
+    padding: 0px 5px;
+}
+
+.box-card{
+    background-color: #f7881f;
+    height: 100%;
+}
+
+/* /Info Box */

@@ -241,16 +241,21 @@ footer{
     font-weight:500;
 }
 
-footer a{
-    color: #fff;
+footer a,
+footer p{
+    color: #cccccc;
 }
 
-footer h4{
-    color: #fff;
-    font-weight: bold;
+footer li span{
+    color: #cccccc;
+    cursor: pointer;
 }
 
-footer h2{
+footer li span:hover{
+    color: #f7881f;
+}
+
+.footer-title{
     color: #fff;
     font-weight: bold;
 }
@@ -272,3 +277,10 @@ footer a:hover{
     background-color: #15255c;
 }
 /* /Footer */
+
+
+
+/* Page Product */
+
+
+
